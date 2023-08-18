@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on
 - 
 - 📫 How to reach me: Here on github
-and on LinkedIn href="www.linkedin.com"
+and on LinkedIn href="https://www.linkedin.com"
 
 <!---
 RomanEkeng/RomanEkeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
